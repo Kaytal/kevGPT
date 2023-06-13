@@ -1,0 +1,14 @@
+{
+  "name": "kevGPT",
+  "version": "1.0.0",
+  "description": "Stupid bot that responds when /kevGPT command is called.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.1.4"
+  }
+}
